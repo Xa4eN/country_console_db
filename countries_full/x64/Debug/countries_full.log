@@ -1,0 +1,9 @@
+﻿  country.cpp
+  data.cpp
+D:\с++\projects\first step\countries_full\countries_full\data.cpp(191,28): warning C4101: ex: неиспользованная локальная переменная
+D:\с++\projects\first step\countries_full\countries_full\data.cpp(306,45): warning C4101: ex: неиспользованная локальная переменная
+  main_menu.cpp
+D:\с++\projects\first step\countries_full\countries_full\main_menu.cpp(151,29): warning C4101: ex: неиспользованная локальная переменная
+D:\с++\projects\first step\countries_full\countries_full\main_menu.cpp(211,28): warning C4101: ex: неиспользованная локальная переменная
+  Создание кода...
+  countries_full.vcxproj -> D:\с++\projects\first step\countries_full\x64\Debug\countries_full.exe
